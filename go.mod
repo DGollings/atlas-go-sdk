@@ -1,4 +1,4 @@
-module ariga.io/atlas-go-sdk
+module github.com/dgollings/atlas-go-sdk
 
 go 1.20
 
